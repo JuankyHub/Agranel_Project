@@ -128,7 +128,7 @@
 								
 			</div>
 			<div class="contenedor-icono">
-				<p><a href="#comprar" class="texto-naranja"><i class="fas fa-chevron-down"></i></a></p>
+				<p><a href="#contacto" class="texto-naranja"><i class="fas fa-chevron-down"></i></a></p>
 			</div>
 	
 		</section>
